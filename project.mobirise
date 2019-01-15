@@ -55,7 +55,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 22,
+    "uniqCompNum": 21,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -173,11 +173,11 @@
           "_name": "image4",
           "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Góra\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Dół\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Pełny ekran\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Szerokość\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Wielkość\" name=\"proportions\" min=\"30\" max=\"300\" value=\"177\" step=\"1\">\n        <input type=\"checkbox\" title=\"Pokaż opis\" name=\"showCaption\" checked>\n        <input type=\"color\" title=\"Tło opisu\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Kolor ta\" name=\"bgColor\" value=\"#232323\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <a href=\"https://wiadomosci.onet.pl/kraj/pawel-adamowicz-nie-zyje-w-sobote-pogrzeb-prezydenta-gdanska/3xzmdns\"><img src=\"@PROJECT_PATH@/assets/images/adamowicz-1-788x444.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-5\">\n                            Pogrzeb prezydenta Gdańska Pawła Adamowicza odbędzie się w sobotę. \n                        </p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <a href=\"https://youtu.be/Qfcz-A8g4go\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/kondolencje-2-226x166.jpg\" alt title></a>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">Gdańszczanie żegnają swojego prezydenta | 14.01.2019 | Disturbed - Sound of Silence</p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_cid": "rfgvejbZl2",
+          "_anchor": "image4-l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image4-l"
+          "_params": {}
         },
         {
           "_styles": {
