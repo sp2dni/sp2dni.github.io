@@ -1838,7 +1838,7 @@ body {
 }
 .cid-rdx0s0V7j6 .nav-link:hover,
 .cid-rdx0s0V7j6 .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #f40a0a !important;
 }
 .cid-rdxIztmfs0 .navbar {
   padding: .5rem 0;
@@ -2230,7 +2230,7 @@ body {
 }
 .cid-rdxIztmfs0 .nav-link:hover,
 .cid-rdxIztmfs0 .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #f40a0a !important;
 }
 .cid-rdxCljmfVU {
   background: #5b686b;
@@ -3105,7 +3105,7 @@ body {
 }
 .cid-rdx0s0V7j6 .nav-link:hover,
 .cid-rdx0s0V7j6 .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #f40a0a !important;
 }
 .cid-rdxzhhKBaj {
   background: #5b686b;
@@ -3580,7 +3580,7 @@ body {
 }
 .cid-rdx0s0V7j6 .nav-link:hover,
 .cid-rdx0s0V7j6 .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #f40a0a !important;
 }
 .cid-rdxz8O0dcj {
   background: #5b686b;
@@ -4055,7 +4055,7 @@ body {
 }
 .cid-rdx0s0V7j6 .nav-link:hover,
 .cid-rdx0s0V7j6 .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #f40a0a !important;
 }
 .cid-rdxTvssvBI {
   background: #5b686b;
@@ -4495,5 +4495,49 @@ body {
 }
 .cid-rdx0s0V7j6 .nav-link:hover,
 .cid-rdx0s0V7j6 .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #f40a0a !important;
+}
+.cid-rmWBpbpXnE {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rmWBpbpXnE h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-rmWBpbpXnE p {
+  color: #ffffff;
+}
+.cid-rmWBpbpXnE .card {
+  margin-bottom: 2rem;
+}
+.cid-rmWBpbpXnE .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-rmWBpbpXnE .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-rmWBpbpXnE .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-rmWBpbpXnE .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rmWBpbpXnE .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rmWBpbpXnE .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rmWBpbpXnE .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
 }
